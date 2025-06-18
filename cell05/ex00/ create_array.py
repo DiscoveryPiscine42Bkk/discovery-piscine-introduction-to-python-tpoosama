@@ -1,1 +1,1 @@
-ืnumber_array = 
+ืnumber_array = []
